@@ -1,0 +1,26 @@
+[
+  {
+    "#IMDB_ID": "1",
+    "#TITLE": "The Shawshank Redemption",
+    "#IMG_POSTER": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "#YEAR": 1994
+  },
+  {
+    "#IMDB_ID": "2",
+    "#TITLE": "The Godfather",
+    "#IMG_POSTER": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "#YEAR": 1972
+  },
+  {
+    "#IMDB_ID": "3",
+    "#TITLE": "Star Wars: Episode IV - A New Hope",
+    "#IMG_POSTER": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
+    "#YEAR": 1977
+  },
+  {
+    "#IMDB_ID": "4",
+    "#TITLE": "Star Wars: Episode IX - The Rise of Skywalker",
+    "#IMG_POSTER": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+    "#YEAR": 2019
+  }
+]
